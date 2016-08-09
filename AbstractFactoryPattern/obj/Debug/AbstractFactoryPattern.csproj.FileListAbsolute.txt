@@ -4,3 +4,9 @@ c:\users\harshal.dhake\documents\visual studio 2013\Projects\DesignPattern\Abstr
 c:\users\harshal.dhake\documents\visual studio 2013\Projects\DesignPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojResolveAssemblyReference.cache
 c:\users\harshal.dhake\documents\visual studio 2013\Projects\DesignPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
 c:\users\harshal.dhake\documents\visual studio 2013\Projects\DesignPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb

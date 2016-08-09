@@ -4,3 +4,9 @@ c:\users\harshal.dhake\documents\visual studio 2013\Projects\DesignPattern\Desig
 c:\users\harshal.dhake\documents\visual studio 2013\Projects\DesignPattern\DesignPattern\bin\Debug\DesignPattern.pdb
 c:\users\harshal.dhake\documents\visual studio 2013\Projects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
 c:\users\harshal.dhake\documents\visual studio 2013\Projects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\DesignPattern\bin\Debug\DesignPattern.exe.config
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\DesignPattern\obj\Debug\DesignPattern.exe
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\DesignPattern\obj\Debug\DesignPattern.pdb
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\DesignPattern\bin\Debug\DesignPattern.exe
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\DesignPattern\bin\Debug\DesignPattern.pdb
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\DesignPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache

@@ -3,3 +3,9 @@ c:\users\harshal.dhake\documents\visual studio 2013\Projects\DesignPattern\Proto
 c:\users\harshal.dhake\documents\visual studio 2013\Projects\DesignPattern\PrototypePattern\bin\Debug\PrototypePattern.pdb
 c:\users\harshal.dhake\documents\visual studio 2013\Projects\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.exe
 c:\users\harshal.dhake\documents\visual studio 2013\Projects\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.pdb
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\PrototypePattern\bin\Debug\PrototypePattern.exe.config
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\PrototypePattern\bin\Debug\PrototypePattern.exe
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\PrototypePattern\bin\Debug\PrototypePattern.pdb
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\PrototypePattern\obj\Debug\PrototypePattern.csprojResolveAssemblyReference.cache
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\PrototypePattern\obj\Debug\PrototypePattern.exe
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\PrototypePattern\obj\Debug\PrototypePattern.pdb
