@@ -1,0 +1,6 @@
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\BridgePattern\bin\Debug\BridgePattern.exe.config
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\BridgePattern\obj\Debug\BridgePattern.csprojResolveAssemblyReference.cache
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\BridgePattern\bin\Debug\BridgePattern.exe
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\BridgePattern\bin\Debug\BridgePattern.pdb
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\BridgePattern\obj\Debug\BridgePattern.exe
+C:\Users\harshal.dhake\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatternsInCSharp\BridgePattern\obj\Debug\BridgePattern.pdb
