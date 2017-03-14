@@ -28,11 +28,11 @@ namespace RepositoryPattern
         void Delete(T entity);
     }
 
-    public class IAuthorRepository: IRepository<Author>
+    public class AuthorRepository: IRepository<Author>
     {
         List<Author> _dbContext;
 
-        public IAuthorRepository()
+        public AuthorRepository()
         {
             _dbContext = new List<Author>();
         }
@@ -71,8 +71,22 @@ namespace RepositoryPattern
     {
         static void Main(string[] args)
         {
+            IRepository<Author> repo = new AuthorRepository();
+            repo.Add(new Author() { AuthorId = 11, AuthorName = "harshal", AuthorEmail = "harsh@df.df" });
+            repo.Add(new Author() { AuthorId = 12, AuthorName = "jay ", AuthorEmail = "jay@df.com" });
+            repo.Add(new Author() { AuthorId = 13, AuthorName = "Vij", AuthorEmail = "vijay@df.jp" });
 
+            foreach (var item in repo.List)
+            {
+                Console.WriteLine(item.AuthorId +" - "+item.AuthorName+" - "+item.AuthorEmail);
+            }
+            Console.WriteLine(  "----------------------------------------------------------------------\n");
+            repo.Delete(new Author() { AuthorId = 12, AuthorName = "jay ", AuthorEmail = "jay@df.com" });
 
+            foreach (var item in repo.List)
+            {
+                Console.WriteLine(item.AuthorId + " - " + item.AuthorName + " - " + item.AuthorEmail);
+            }
         }
     }
 }
